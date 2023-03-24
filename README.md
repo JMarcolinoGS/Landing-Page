@@ -1,4 +1,7 @@
 # Landing-Page
 
-Um projeto que gostaria de ter feito há muito tempo em minha plataforma ensino favorita, aqui refiz uma antiga landing page da plataforma
-utilizei apenas HTML e CSS
+PROJETO EM ANDAMENTO!!!
+
+Um projeto que gostaria de ter feito há muito tempo em minha plataforma ensino favorita, aqui estou refazendo uma antiga landing page da plataforma
+utilizando apenas HTML e CSS
+
